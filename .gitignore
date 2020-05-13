@@ -10,3 +10,5 @@ notebooks/boroughs/
 credentials.txt
 notebooks/.ipynb_checkpoints
 assets/favicon.ai
+
+.DS_Store
